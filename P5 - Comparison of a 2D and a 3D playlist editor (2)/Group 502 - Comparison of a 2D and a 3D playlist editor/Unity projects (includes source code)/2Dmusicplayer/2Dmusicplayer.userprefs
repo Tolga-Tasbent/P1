@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Engine\Music\ArtistUI.cs">
+    <Files>
+      <File FileName="Assets\Engine\Menu.cs" Line="30" Column="3" />
+      <File FileName="Assets\Engine\Main.cs" Line="1" Column="1" />
+      <File FileName="Assets\Engine\Music\Songpool.cs" Line="122" Column="24" />
+      <File FileName="Assets\Engine\Music\PlaylistItem.cs" Line="67" Column="3" />
+      <File FileName="Assets\Engine\Music\ArtistUI.cs" Line="70" Column="50" />
+      <File FileName="Assets\Engine\MenuManager.cs" Line="50" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Jonas\Desktop\2d\12-12\2Dmusicplayer\Assets\Engine\Songpool.cs" line="52" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\Engine\Songpool.cs" line="62" offsetX="472" offsetY="976" expression="plItem" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

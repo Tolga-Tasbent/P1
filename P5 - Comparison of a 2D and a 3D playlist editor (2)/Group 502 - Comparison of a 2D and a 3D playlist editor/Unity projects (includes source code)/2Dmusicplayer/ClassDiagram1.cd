@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="Menu.Main" Collapsed="true">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQAAAAACAAQCAAAIAIAAABAACAAgMgAABAAAI4KiI=</HashCode>
+      <FileName>Assets\Engine\Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Menu" Collapsed="true">
+    <Position X="10.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Engine\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.MenuManager" Collapsed="true">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAgAAAAAAAAAAACAAAAAABAAAAAAABAkA=</HashCode>
+      <FileName>Assets\Engine\MenuManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Music.ArtistUI">
+    <Position X="2.75" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAAAAAQCAIQAgAAABAAAAAAAAgAAAAAAACBgAA=</HashCode>
+      <FileName>Assets\Engine\Music\ArtistUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Music.GenreUI" Collapsed="true">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAQABAAAACQAAAAEAAIEAAAAgAIAAAAAAA=</HashCode>
+      <FileName>Assets\Engine\Music\GenreUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Music.Mp3ID3" Collapsed="true">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAUBAAAAEAAAAIAAAAAAoAAAAAAAACACIAAAAA=</HashCode>
+      <FileName>Assets\Engine\Music\Mp3ID3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Music.Playlist" Collapsed="true">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAgACAhQCABEAECAAAAAAAAAAAAAAAACAAACFEI=</HashCode>
+      <FileName>Assets\Engine\Music\Playlist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Music.PlaylistItem" Collapsed="true">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAAAQAAAAAAAAAAAhAACAAAAAAAoAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Engine\Music\PlaylistItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Music.SongListUI" Collapsed="true">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAoAABAgAAAAAAAAAAABAAAAIAAAAgBgiEE=</HashCode>
+      <FileName>Assets\Engine\Music\SongListUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Music.Songpool" Collapsed="true">
+    <Position X="7" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAEAABAAAAAAQQAAAABEAAAAAAAAAIAQAAA=</HashCode>
+      <FileName>Assets\Engine\Music\Songpool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
